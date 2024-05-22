@@ -15,7 +15,7 @@ deej is an **open-source hardware volume mixer** for Windows and Linux PCs. It l
 # Build
 
 
-![Finished build]([[https://i.imgur.com/neM2xle.jpg](https://imgur.com/X7Vv9zY)])
+![Finished build](https://imgur.com/X7Vv9zY)
 ![Finished build2](https://imgur.com/a/mlYosEw)
 ### Contributing
 
