@@ -14,10 +14,9 @@ deej is an **open-source hardware volume mixer** for Windows and Linux PCs. It l
 
 # Build
 
+![PXL_20240522_001154977](https://github.com/ApolIlo/deejRTCclock/assets/170481465/541547c7-4462-42ef-90cf-243576d5afd5)
+![PXL_20240522_000909985](https://github.com/ApolIlo/deejRTCclock/assets/170481465/a7ff7be5-d30e-4955-854c-4a60b0f35237)
 
-![Finished build](https://imgur.com/X7Vv9zY)![PXL_20240522_000909985](https://github.com/ApolIlo/deejRTCclock/assets/170481465/a7ff7be5-d30e-4955-854c-4a60b0f35237)
-
-![Finished build2](https://imgur.com/a/mlYosEw)
 ### Contributing
 
 Please see [`docs/CONTRIBUTING.md`](./docs/CONTRIBUTING.md).
